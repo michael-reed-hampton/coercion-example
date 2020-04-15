@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="coercion-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="coercion-example" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="TypeScriptCompiler">
+    <option name="typeScriptServiceDirectory" value="$PROJECT_DIR$/../Clover-src/clover-cloud-connector-unit-examples/node_modules/typescript/lib" />
+    <option name="versionType" value="SERVICE_DIRECTORY" />
+  </component>
+</project>
